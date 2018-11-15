@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I enjoy constructing abstractions of the world using probabilistic models and distilling them into usable well designed code. I would describe myself as a Machine Learning Researcher/Engineer.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Currently, as a Senior Data Scientist at Wise.io, I build machine learning applications to analyze vast amounts of sensor data and provide value to various business units accross General Electric. Prior to this, I worked on Deep Learning and Probabilistic models as a Master's student at the University of Massachusetts Amherst. Before my Master's, I built a variety of software products as a freelancer while I worked through my undergraduate at SJCE, Mysore. 
