@@ -24,7 +24,7 @@ description: Personal blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Portfolio: "portfolio"
+  Portfolio: "index"
   Download Resume: "downloadresume"
 
 
