@@ -4,6 +4,8 @@ title: Portfolio
 use-site-title: true
 ---
 
+## Amazon, Lab126 (Applied Scientist II)
+
 ## Wise.io/General Electric (Sr. Data Scientist)
 
 ## University of Massachusetts Amherst (Teaching Assistant)
