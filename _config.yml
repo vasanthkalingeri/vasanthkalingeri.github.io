@@ -25,6 +25,7 @@ description: Personal blog
 navbar-links:
   About Me: "aboutme"
   Portfolio: "index"
+  Current work: "currentwork"
   Download Resume: "downloadresume"
 
 
